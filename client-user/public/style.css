@@ -1,0 +1,59 @@
+:root {
+  --primary-color: #26c6da;
+  --secondary-color-light: #80deea;
+  --white-color: #f7f6fb;
+  --body-font: 'Nunito', sans-serif;
+}
+
+body {
+  width: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+#isi {
+  margin-top: 1%;
+}
+
+.navbar {
+  background-color: var(--primary-color);
+  padding-left: 14%;
+  padding-right: 14%;
+  font-size: small;
+}
+
+.box {
+  background-color: var(--secondary-color-light);
+  padding: 10%;
+  border-radius: 20px;
+  color: white;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.card {
+  width: 30%;
+  height: auto;
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+footer {
+  background-color: var(--primary-color);
+  margin-top: 10%;
+  width: 100%;
+  height: 10%;
+  position: absolute;
+  text-align: center;
+}
+
+h4 {
+  font-size: 14px;
+}

@@ -1,0 +1,79 @@
+{
+  "movies": [
+    { "id": 1, 
+      "title": "batman and robin", 
+      "slug": "batman-and-robin",
+      "synopsis": "batman and robin is bestfriend",
+      "trailerUrl": "https://www.youtube.com/watch?v=NLOp_6uPccQ",
+      "imgUrl": "http://4.bp.blogspot.com/-pIVd8qe4dKo/Xe4b3SW7E8I/AAAAAAAASRY/UDipHOal2tk5pWB07IJ9yiOKzzX16ojQwCKgBGAsYHg/w919/batman-dc-uhdpaper.com-4K-4.2132-wp.thumbnail.jpg",
+      "rating": 4,
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2021-11-22T07:49:03.498Z",
+      "updatedAt": "2021-11-22T07:49:03.498Z"
+    },
+    { "id": 2, 
+      "title": "batman and rorong", 
+      "slug": "batman-and-rorong",
+      "synopsis": "batman and rorong is bestfriend",
+      "trailerUrl": "https://www.youtube.com/watch?v=NLOp_6uPccQ",
+      "imgUrl": "http://4.bp.blogspot.com/-pIVd8qe4dKo/Xe4b3SW7E8I/AAAAAAAASRY/UDipHOal2tk5pWB07IJ9yiOKzzX16ojQwCKgBGAsYHg/w919/batman-dc-uhdpaper.com-4K-4.2132-wp.thumbnail.jpg",
+      "rating": 4,
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2021-11-22T07:49:03.498Z",
+      "updatedAt": "2021-11-22T07:49:03.498Z"
+    },
+    { "id": 2, 
+      "title": "batman and rorong", 
+      "slug": "batman-and-rorong",
+      "synopsis": "batman and rorong is bestfriend",
+      "trailerUrl": "https://www.youtube.com/watch?v=NLOp_6uPccQ",
+      "imgUrl": "http://4.bp.blogspot.com/-pIVd8qe4dKo/Xe4b3SW7E8I/AAAAAAAASRY/UDipHOal2tk5pWB07IJ9yiOKzzX16ojQwCKgBGAsYHg/w919/batman-dc-uhdpaper.com-4K-4.2132-wp.thumbnail.jpg",
+      "rating": 4,
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2021-11-22T07:49:03.498Z",
+      "updatedAt": "2021-11-22T07:49:03.498Z"
+    }
+
+
+  ],
+  "genres": [
+    { "id": 1, 
+      "title": "action", 
+      "createdAt": "2021-11-22T07:49:03.498Z",
+      "updatedAt": "2021-11-22T07:49:03.498Z"
+    }
+  ],
+  "casts": [
+    { "id": 1, 
+      "movieId": "1", 
+      "name": "robin",
+      "profilePict": "https://s7.orientaltrading.com/is/image/OrientalTrading/VIEWER_ZOOM/kid-s-photo-real-batman-costume~13792251",
+      "createdAt": "2021-11-22T07:49:03.498Z",
+      "updatedAt": "2021-11-22T07:49:03.498Z"
+    }
+  ],
+  "users": [
+    { 
+      "id": 1, 
+      "username": "tarrasque", 
+      "email": "tarass@gmail.com",  
+      "password": 12345678,
+      "role": "admin",
+      "phoneNumber": "092837272",
+      "address": "semarang"
+    },
+    { 
+      "id": 2, 
+      "username": "heart", 
+      "email": "heart@gmail.com",  
+      "password": 12345678,
+      "role": "customer",
+      "phoneNumber": "092837272",
+      "address": "semarang"
+    }
+  ]
+  
+}
